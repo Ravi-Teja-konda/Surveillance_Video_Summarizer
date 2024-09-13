@@ -7,7 +7,7 @@ The fine-tuned model can be found at: [kndrvitja/florence-SPHAR-finetune-2](http
 
 See the tool in action below!
 
-### 🎥 [Demo Video]((https://youtu.be/37MydYtoo4U)
+### 🎥 [Demo Video](https://youtu.be/37MydYtoo4U)
 
 [![Demo Video](https://img.youtube.com/vi/37MydYtoo4U/sddefault.jpg)](https://youtu.be/37MydYtoo4U)
 ---
