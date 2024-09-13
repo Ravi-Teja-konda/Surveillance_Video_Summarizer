@@ -1,8 +1,0 @@
-pip install transformers
-pip install torch
-pip install pillow
-pip install matplotlib
-pip install flash_attn timm einops
-
-pip install gradio
-pip install openai
