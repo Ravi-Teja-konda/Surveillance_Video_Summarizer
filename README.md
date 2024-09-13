@@ -109,3 +109,8 @@ Inspired by advances in Vision-Language models like Florence-2.
 - https://huggingface.co/papers/2311.06242
 - https://github.com/retkowsky/florence-2
 
+
+## License
+This project is licensed under the Apache License 2.0.
+
+
