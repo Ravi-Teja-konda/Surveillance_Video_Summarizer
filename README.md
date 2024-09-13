@@ -58,18 +58,18 @@ Interact with the surveillance logs through a Gradio-based web interface. You ca
 ```bash
 pip install -r requirements.txt
 ```
-4. **Configuration**
+## **Configuration**
 Model and Processor
 
-. The system utilizes the Florence-2 Vision-Language Model fine-tuned for the SPHAR dataset. The fine-tuned model can be found at kndrvitja/florence-SPHAR-finetune-2.
+- The system utilizes the Florence-2 Vision-Language Model fine-tuned for the SPHAR dataset. The fine-tuned model can be found at kndrvitja/florence-SPHAR-finetune-2.
 
-. Ensure you have your OpenAI API key stored in a .env file as required.
+- Ensure you have your OpenAI API key stored in a .env file as required.
 
 Database Path
 
-The default SQLite database for storing frame data is located at /teamspace/studios/Florence_2_video_analytics/Florence_2_video_analytics.db. You can modify this path.
+- The default SQLite database for storing frame data is located at /teamspace/studios/Florence_2_video_analytics/Florence_2_video_analytics.db. You can modify this path.
 
-Usage
+## **Usage**
 Firstly, run the frame extraction :
 
 ```bash
