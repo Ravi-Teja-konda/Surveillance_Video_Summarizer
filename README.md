@@ -1,5 +1,5 @@
 # 🎥 Surveillance Video Summarizer: AI-Powered Video Analysis and Summarization
-*Checked on 13.09.2024 ✅ (This project is developedand tested on the Lightning AI platform, running on an L40 GPU)*
+*Checked on 13.09.2024 ✅ (This project is developed tested on the Lightning AI platform, running on an L40 GPU)*
 
 **Surveillance Video Summarizer** is a AI-driven system that processes surveillance videos, extracts key frames, and generates detailed annotations. Powered by a **fine-tuned Florence-2 Vision-Language Model (VLM)** specifically trained on the SPHAR dataset, it highlights notable events, actions, and objects within video footage and logs them for easy review and further analysis.
 
